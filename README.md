@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I’m Gaurav Deshmukh</h1>
 
-- **🔭 I’m currently working on [Web Scrapping]
+- **🔭 I’m currently working on [Web Scrapping Project]
 (https://github.com/GauravDeshmukh17/NodeJS)**  
 - <h4>👀 I’m interested in Web Development</h4>
 - <h4>🌱 I’m currently learning Web Development</h4>
