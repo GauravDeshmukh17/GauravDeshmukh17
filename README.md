@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravDeshmukh17
-- 👀 I’m interested in T.E 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Web Development
 - 💞️ I have knowledge of DSA
 - 📫 How to reach me : gauravdeshmukh1703@gmail.com
