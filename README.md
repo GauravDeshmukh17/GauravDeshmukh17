@@ -2,8 +2,8 @@
 
 <h1>👋 Hi, I’m Gaurav Deshmukh</h1>
 
-- **🔭 I’m currently working on [Web Scrapping Project]
-(https://github.com/GauravDeshmukh17/NodeJS)**  
+- **🔭 I’m currently studying DSA-Recursion
+(https://github.com/GauravDeshmukh17/DSA-Recursion)**  
 - <h4>👀 I’m interested in Web Development</h4>
 - <h4>🌱 I’m currently learning Web Development</h4>
 - <h4>💞️ I have knowledge of DSA</h4>
